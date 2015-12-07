@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Parse tags", "05. Parse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. String length", "06. String length\06. String length.csproj", "{1109D404-81F8-41DA-8F5E-A8EFDCDE5E5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. EncodeDecode", "7. EncodeDecode\07. EncodeDecode.csproj", "{979C26CD-7AA9-4638-A3EA-ECDE8166C2B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. EncodeDecode", "07. EncodeDecode\07. EncodeDecode.csproj", "{979C26CD-7AA9-4638-A3EA-ECDE8166C2B8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Extract sentences", "08. Extract sentences\08. Extract sentences.csproj", "{536F3785-EFD9-4A2E-B8AD-1C8D9EAD1660}"
 EndProject

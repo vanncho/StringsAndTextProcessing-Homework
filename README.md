@@ -2,7 +2,7 @@
 StringsAndTextProcessing-Homework
 
 Homework: Strings and Text Processing
-Problem 1. Strings in C#.
+<strong>Problem 1. Strings in C#.</strong>
 
 Describe the strings in C#.
 What is typical for the string data type?
